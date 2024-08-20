@@ -4,7 +4,7 @@ import json
 import os
 from datetime import datetime
 
-SERVER_HOST = '192.168.0.8'
+SERVER_HOST = '127.0.0.1'
 SERVER_PORT = 12345
 
 USER_FILE = 'users.json'
